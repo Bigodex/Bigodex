@@ -2,8 +2,6 @@
 
 🎯 **Desenvolvedor apaixonado por desafios e aprendizado constante.**  
 
--------------------------------------------
-
 ## 🛠️ **Tecnologias e Ferramentas**  
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -13,8 +11,6 @@
 - **Plataforma:** PEGA  
 - **IDEs:** VS Code, IntelliJ IDEA, Android Studio  
 
--------------------------------------------
-
 ## 📱 **Projetos Favoritos**  
 
 ### **JobMatch**  
@@ -23,15 +19,11 @@ Um aplicativo inovador desenvolvido por mim e colegas de faculdade na empresa fi
 ### **E-commerce Responsivo**  
 Desenvolvimento de sites modernos e responsivos para vendas online.  
 
--------------------------------------------
-
 ## 🚀 **Sobre Mim**  
 
 💻 Trabalho com programação há dois anos e estou em constante evolução.  
 📚 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** (conclusão em junho de 2024).  
 🤖 Minha meta é me especializar em Inteligência Artificial, prestar consultoria e ajudar as pessoas a se prepararem para o futuro tecnológico.  
-
--------------------------------------------
 
 ## 🌐 **Conecte-se Comigo**  
 
