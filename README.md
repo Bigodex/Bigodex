@@ -22,7 +22,7 @@ Desenvolvimento de sites modernos e responsivos para vendas online.
 ## 🚀 **Sobre Mim**  
 
 💻 Trabalho com programação há dois anos e estou em constante evolução.  
-📚 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** (conclusão em junho de 2024).  
+📚 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** (conclusão em junho de 2025).  
 🤖 Minha meta é me especializar em Inteligência Artificial, prestar consultoria e ajudar as pessoas a se prepararem para o futuro tecnológico.  
 
 ## 🌐 **Conecte-se Comigo**  
